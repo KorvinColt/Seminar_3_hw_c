@@ -29,6 +29,7 @@ Console.WriteLine("Введите число ");
 int X2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число ");
 int Y2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число ");
 int X3 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число ");
 int Y3 = Convert.ToInt32(Console.ReadLine());
